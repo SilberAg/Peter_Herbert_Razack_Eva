@@ -1,4 +1,4 @@
-# Peter_Herbert_Razack_Eve
+# Peter_Herbert_Razack_Eva
 This is our work for the group assignment
 
 # Goal 
